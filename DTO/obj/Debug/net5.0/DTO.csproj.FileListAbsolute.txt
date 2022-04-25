@@ -1,0 +1,12 @@
+C:\Users\cocoliso\source\repos\NexosTest\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\cocoliso\source\repos\NexosTest\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\cocoliso\source\repos\NexosTest\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\cocoliso\source\repos\NexosTest\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\cocoliso\source\repos\NexosTest\DTO\obj\Debug\net5.0\DTO.pdb
